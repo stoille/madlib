@@ -1,0 +1,41 @@
+{
+  "name": "madlib",
+  "version": "0.1.0",
+  "description": "",
+  "dependencies": {
+    "@risingstack/trace": "^3.5.0",
+    "draft": "^0.2.3",
+    "draft-js": "^0.10.0",
+    "next": "^2.0.0-beta.33",
+    "next-redux-wrapper": "^1.0.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-no-ssr": "^1.1.0",
+    "react-redux": "^5.0.3",
+    "redux": "^3.6.0",
+    "styled-jsx": "^0.5.7"
+  },
+  "devDependencies": {
+    "babel-preset-stage-0": "^6.22.0",
+    "eslint-config-standard": "^6.2.1",
+    "eslint-plugin-promise": "^3.4.2",
+    "eslint-plugin-standard": "^2.0.1",
+    "standard": "^8.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stoille/madlib.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stoille/madlib/issues"
+  },
+  "homepage": "https://github.com/stoille/madlib#readme"
+}
